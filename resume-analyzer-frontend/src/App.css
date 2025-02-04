@@ -1,0 +1,12 @@
+body {
+  background-color: #f4f6f8;
+  font-family: 'Roboto', sans-serif;
+}
+
+.App {
+  padding: 20px;
+}
+
+button:disabled {
+  background-color: #b0bec5;
+}
